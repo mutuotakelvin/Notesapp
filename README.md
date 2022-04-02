@@ -11,8 +11,8 @@ A note taking application that allows users to take notes in Markdown.
 - Move modified notes to the top of the list
 - Delete notes
 ## Screenshots
-
-![App Screenshot](/src/assests/notesapp2.png)
+![1st Screenshot](/src/assests/notesapp1.png)
+![2nd Screenshot](/src/assests/notesapp2.png)
 
 
 ## Tech Stack
