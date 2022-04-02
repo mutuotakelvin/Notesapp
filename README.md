@@ -12,7 +12,7 @@ A note taking application that allows users to take notes in Markdown.
 - Delete notes
 ## Screenshots
 
-![App Screenshot](/public/notesapp2.png)
+![App Screenshot](/src/assests/notesapp2.png)
 
 
 ## Tech Stack
