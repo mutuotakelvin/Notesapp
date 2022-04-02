@@ -2,6 +2,7 @@
 # Markdown Notes App
 
 A note taking application that allows users to take notes in Markdown.
+**live demo** https://notesapp-chi.vercel.app/
 
 
 ## Features
