@@ -1,4 +1,38 @@
-# Getting Started with Create React App
+
+# Markdown Notes App
+
+A note taking application that allows users to take notes in Markdown.
+
+
+## Features
+
+- Sync notes with localSorage
+- Note Summary titles
+- Move modified notes to the top of the list
+- Delete notes
+## Screenshots
+
+![App Screenshot](/public/notesapp2.png)
+
+
+## Tech Stack
+
+- React
+- Nanoid
+- reatc-mde
+- react-split
+- showdown
+
+
+
+## Features
+
+- Sync notes with localSorage
+- Note Summary titles
+- Move modified notes to the top o
+- Delete notes
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
