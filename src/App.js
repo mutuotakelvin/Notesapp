@@ -8,7 +8,8 @@ import { data } from "./data"
 
 export default function App() {
     const [notes, setNotes] = useState( 
-        JSON.parse(localStorage.getItem("notes")) 
+        // Lazy initialization
+        () => JSON.parse(localStorage.getItem("notes")) 
         ||[])
     const [currentNoteId, setCurrentNoteId] = React.useState(
         (notes[0] && notes[0].id) || ""
