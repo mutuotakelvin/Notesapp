@@ -35,11 +35,14 @@ export default function App() {
     useEffect(()=>{
         localStorage.setItem("notes",JSON.stringify(notes))
     },[notes])
+
     function findCurrentNote() {
         return notes.find(note => {
             return note.id === currentNoteId
         }) || notes[0]
     }
+
+    console.log(notes[0].body.substr(0,6))
     
     return (
         <main>
